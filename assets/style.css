@@ -1,0 +1,19 @@
+body {
+    background-color: lightgray;
+}
+#header {
+    text-align: center;
+    color: black;
+    font-family: "Gugi", cursive;
+    font-size: 50px;
+}
+
+#button {
+    margin-top: 100px;
+    font-family: "Gugi", cursive;
+    /* margin-left: 475px;
+    padding: 45px 45px; */
+}
+#pizza {
+    padding-top: 50px;
+}
